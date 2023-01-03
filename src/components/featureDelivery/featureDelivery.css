@@ -1,0 +1,30 @@
+.feature_delivery {
+    background: rgb(252, 217, 128, .3);
+}
+
+.feature_delivery_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 80px;
+}
+
+.feature_delivery_img {
+    width: 500px;
+}
+
+.feature_delivery_img img {
+    max-width: 100%;
+}
+
+.feature_delivery_text {
+    width: 560px;
+    align-self: center;
+}
+
+.feature_delivery_text h6 {
+    margin-bottom: 16px;
+}
+
+.feature_delivery_text h3 {
+    margin-bottom: 16px;
+}

@@ -1,0 +1,42 @@
+.feature_team_work {
+    padding: 0;
+}
+
+.feature_team_work_title {
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.feature_team_work_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 32px;
+}
+
+.feature_team_work_item {
+    width: 358px;
+    background: #F4F6FC;
+    padding: 40px;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+}
+
+.feature_team_work_item:hover {
+    box-shadow: 10px 11px 8px -1px #BBBBCB99;
+}
+
+.feature_team_work_item i {
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 26px;
+    color: #2405F2;
+}
+
+.feature_team_work_item h5 {
+    margin-bottom: 12px;
+}

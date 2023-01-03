@@ -1,0 +1,39 @@
+.read_case_head {
+    padding-bottom: 0;
+}
+
+.read_case_head_item {
+    width: 900px;
+    margin: 0 auto;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 30px;
+}
+
+.read_case_head_item h5 {
+    margin-bottom: 12px;
+}
+
+.read_case_head_item h2 {
+    margin-bottom: 16px;
+    margin-right: 200px;
+}
+
+.read_case_head_item p {
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.read_case_head_item img {
+    max-width: 100%;
+}
+
+.read_case_inner_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 80px;
+    margin-top: 50px;
+}
+
+.read_case_head_inner_item span {
+    margin-bottom: 5px;
+}

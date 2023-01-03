@@ -1,0 +1,26 @@
+.feature_agencie_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 80px;
+}
+
+.feature_agencie_text {
+    width: 560px;
+    align-self: center;
+}
+
+.feature_agencie_text h6 {
+    margin-bottom: 16px;
+}
+
+.feature_agencie_text h3 {
+    margin-bottom: 16px;
+}
+
+.feature_agencie_img {
+    width: 500px;
+}
+
+.feature_agencie_img img {
+    max-width: 100%;
+}

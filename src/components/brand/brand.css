@@ -1,0 +1,18 @@
+.feature_brand_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 40px;
+}
+
+.feature_brand_item {
+    align-self: center;
+}
+
+.feature_brand_item span {
+    color: #282938;
+    ;
+}
+
+.feature_brand_item img {
+    max-width: 100%;
+}

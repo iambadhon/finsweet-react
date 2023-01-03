@@ -1,0 +1,13 @@
+.portfolio_together_text {
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.portfolio_together_text h2 {
+    margin-bottom: 20px;
+}
+
+.portfolio_together_btn {
+    margin-top: 40px;
+}

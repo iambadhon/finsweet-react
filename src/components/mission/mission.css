@@ -1,0 +1,35 @@
+.mission {
+    background: #EEF4FA;
+}
+
+.mission_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 100px;
+}
+
+.mission_flex:first-child {
+    margin-bottom: 100px;
+}
+
+.mission_text {
+    width: 520px;
+    align-self: center;
+}
+
+.mission_text span {
+    margin-bottom: 16px;
+    color: #282938;
+}
+
+.mission_text h3 {
+    margin-bottom: 16px;
+}
+
+.mission_img {
+    width: 520px;
+}
+
+.mission_img img {
+    max-width: 100%;
+}

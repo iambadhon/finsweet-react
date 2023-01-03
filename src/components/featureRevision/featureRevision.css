@@ -1,0 +1,30 @@
+.feature_revision {
+    background: #F4F6FC;
+}
+
+.feature_revision_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 80px;
+}
+
+.feature_revision_img {
+    width: 500px;
+}
+
+.feature_revision_img img {
+    max-width: 100%;
+}
+
+.feature_revision_text {
+    width: 560px;
+    align-self: center;
+}
+
+.feature_revision_text h6 {
+    margin-bottom: 16px;
+}
+
+.feature_revision_text h3 {
+    margin-bottom: 16px;
+}

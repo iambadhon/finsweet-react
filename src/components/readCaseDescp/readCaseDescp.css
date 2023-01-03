@@ -1,0 +1,59 @@
+.read_case_descp {
+    padding-bottom: 0;
+}
+
+.read_case_main {
+    width: 750px;
+    margin: 0 auto;
+}
+
+.read_case_descp_inner h3 {
+    margin-bottom: 12px;
+}
+
+.read_case_descp_inner p {
+    margin-bottom: 24px;
+}
+
+.read_case_descp_inner ul {
+    margin-left: 15px;
+}
+
+.read_case_descp_inner ul li {
+    font-size: 16px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #282938b3;
+    list-style-type: disc;
+}
+
+.read_case_descp_inner img {
+    max-width: 100%;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+.read_case_keyword {
+    padding: 26px 0;
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+    margin-top: 80px;
+}
+
+.read_case_keyword ul {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}
+
+.read_case_keyword ul li {
+    align-self: center;
+}
+
+.read_case_keyword ul li h5 {
+    color: #2405F2;
+}
+
+.read_case_keyword ul li a:hover {
+    color: #2405F2;
+}

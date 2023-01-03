@@ -1,0 +1,36 @@
+.portfolio_title {
+    text-align: center;
+    background: #F4F6FC;
+}
+
+.portfolio_title_text {
+    width: 750px;
+    margin: 0 auto;
+}
+
+.portfolio_title_text span {
+    margin-bottom: 5px;
+}
+
+.portfolio_title_text h2 {
+    margin-bottom: 24px;
+}
+
+.portfolio_title_social {
+    margin-top: 32px;
+}
+
+.portfolio_title_social ul {
+    display: flex;
+    column-gap: 28px;
+    justify-content: center;
+}
+
+.portfolio_title_social ul li a {
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.portfolio_title_social ul li a:hover {
+    color: #f8cc5d;
+}

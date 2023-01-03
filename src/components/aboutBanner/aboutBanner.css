@@ -1,0 +1,28 @@
+.about_banner_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 100px;
+}
+
+.about_banner_text {
+    align-self: center;
+    width: 520px;
+}
+
+.about_banner_text h6 {
+    margin-bottom: 10px;
+    color: #282938;
+}
+
+.about_banner_text h1 {
+    margin-bottom: 30px;
+    color: #282938;
+}
+
+.about_banner_img {
+    width: 520px;
+}
+
+.about_banner_img img {
+    max-width: 100%;
+}

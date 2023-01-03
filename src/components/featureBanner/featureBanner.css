@@ -1,0 +1,38 @@
+.feature_banner {
+    background: #1C1E53;
+}
+
+.feature_banner_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 100px;
+}
+
+.feature_banner_text {
+    width: 520px;
+}
+
+.feature_banner_text h1 {
+    margin-bottom: 32px;
+}
+
+.feature_banner_text p {
+    color: rgb(255, 255, 255, .7);
+}
+
+.feature_banner_btn {
+    margin-top: 32px;
+}
+
+.feature_banner_btn a:hover {
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+
+.feature_banner_img {
+    width: 520px;
+}
+
+.feature_banner_img img {
+    max-width: 100%;
+}
